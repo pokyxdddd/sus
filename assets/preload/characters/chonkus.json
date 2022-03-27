@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				-173
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				52,
+				-169
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-162,
+				-165
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-55,
+				-37
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-67,
+				-173
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Chonkus",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "chonkus",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		102,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

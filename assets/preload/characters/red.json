@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-140,
+				-417
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"offsets": [
+				100,
+				-417
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-40,
+				-417
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				-50,
+				-340
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"offsets": [
+				-160,
+				-410
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				1143,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "tasks",
+			"loop": false,
+			"name": "check tasks"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/red",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "red",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		45,
+		50
+	],
+	"camera_position": [
+		120,
+		350
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
