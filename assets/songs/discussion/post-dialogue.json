@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "done"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "white",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright, time to vote"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*votes orange*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "normal",
+			"expression": "accuse",
+			"text": "*votes boyfriend*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "white",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*votes orange*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*votes orange*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*votes boyfriend*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cyan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*skips vote*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "brown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*votes orange*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*votes orange*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "uhh.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*votes orange*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "angry",
+			"expression": "what",
+			"text": "NO-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "''orange was not the impostor\"''"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "uhh.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "*everyone votes bf*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "''boyfriend was not the impostor''"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "white",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "dang.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "white",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh well.."
+		}
+	]
+}
