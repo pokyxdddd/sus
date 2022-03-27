@@ -1,0 +1,249 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "white",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "where"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "where"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cyan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "where"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "brown",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "where"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellow",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "where"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "this is an emergency meeting, idiots"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "anyways..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "normal",
+			"expression": "accuse",
+			"text": "I caught this sussy blue midget trying to vent!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what no i wasn't"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "normal",
+			"expression": "accuse",
+			"text": "Yes you were"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "normal",
+			"expression": "accuse",
+			"text": "sussy baka"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "white",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "tbh, I kinda think you're the impostor too!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what why"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "white",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "red is dead"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "white",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and you were the last one with him"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bruh no it's not me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "it's yellow"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellow",
+			"boxState": "normal",
+			"expression": "accuse",
+			"text": "what why"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "because you killed red"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cyan",
+			"boxState": "normal",
+			"expression": "accuse",
+			"text": "proof"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "umm.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "uhh.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We've caught you now"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no wait"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let's rap first"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "If I win then that means I'm not the\\nimpostor"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "fine"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bop skedoop bap!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "orange",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "green",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "white",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "brown",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "black",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellow",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cyan",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "?"
+		}
+	]
+}
