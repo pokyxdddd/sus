@@ -1,0 +1,89 @@
+{
+	"position": [
+		180,
+		160
+	],
+	"dialogue_pos": "left",
+	"scale": 1.7,
+	"image": "yellowdialogue",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "yellow regular0005",
+			"loop_name": "yellow regular"
+		},
+		{
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				-6,
+				-1
+			],
+			"loop_name": "yellow huh",
+			"idle_name": "yellow huh0004"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "yellow bruh",
+			"idle_name": "yellow bruh0004"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "accuse",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"loop_name": "yellow accuse",
+			"idle_name": "yellow accuse loop"
+		},
+		{
+			"loop_name": "yellow knife",
+			"idle_offsets": [
+				0,
+				140
+			],
+			"idle_name": "yellow knife0004",
+			"anim": "knife",
+			"loop_offsets": [
+				0,
+				140
+			]
+		},
+		{
+			"loop_name": "yellow hiding knife",
+			"idle_offsets": [
+				40,
+				80
+			],
+			"idle_name": "yellow hiding knife0004",
+			"anim": "hiding knife",
+			"loop_offsets": [
+				40,
+				80
+			]
+		}
+	]
+}

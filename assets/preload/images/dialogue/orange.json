@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		160
+	],
+	"scale": 1.7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "orange regular",
+			"idle_name": "orange regular0005"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-1
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "orange huh0004",
+			"loop_name": "orange huh"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "orange bruh0004",
+			"loop_name": "orange bruh"
+		},
+		{
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"anim": "accuse",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "orange accuse loop",
+			"loop_name": "orange accuse"
+		},
+		{
+			"loop_name": "orange what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "orange what0004",
+			"anim": "what",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "orangedialogue"
+}

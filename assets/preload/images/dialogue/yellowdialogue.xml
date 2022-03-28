@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="yellowdialogue.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="yellow accuse0000" x="3402" y="100" width="277" height="315" frameX="-7" frameY="0" frameWidth="284" frameHeight="315"/>
+	<SubTexture name="yellow accuse0001" x="566" y="511" width="273" height="310" frameX="-6" frameY="-5" frameWidth="284" frameHeight="315"/>
+	<SubTexture name="yellow accuse0002" x="2284" y="528" width="270" height="304" frameX="-4" frameY="-10" frameWidth="284" frameHeight="315"/>
+	<SubTexture name="yellow accuse0003" x="100" y="540" width="267" height="298" frameX="-2" frameY="-16" frameWidth="284" frameHeight="315"/>
+	<SubTexture name="yellow accuse0004" x="1306" y="593" width="264" height="291" frameX="0" frameY="-22" frameWidth="284" frameHeight="315"/>
+	<SubTexture name="yellow accuse loop0000" x="2654" y="543" width="268" height="291" frameX="-5" frameY="-2" frameWidth="273" frameHeight="295"/>
+	<SubTexture name="yellow accuse loop0001" x="1670" y="617" width="259" height="295" frameX="0" frameY="0" frameWidth="273" frameHeight="295"/>
+	<SubTexture name="yellow accuse loop0002" x="939" y="567" width="267" height="288" frameX="-5" frameY="-4" frameWidth="273" frameHeight="295"/>
+	<SubTexture name="yellow bruh0000" x="2974" y="1038" width="189" height="322" frameX="-17" frameY="0" frameWidth="223" frameHeight="322"/>
+	<SubTexture name="yellow bruh0001" x="3325" y="985" width="199" height="315" frameX="-12" frameY="-7" frameWidth="223" frameHeight="322"/>
+	<SubTexture name="yellow bruh0002" x="2667" y="934" width="207" height="307" frameX="-8" frameY="-14" frameWidth="223" frameHeight="322"/>
+	<SubTexture name="yellow bruh0003" x="2352" y="934" width="215" height="300" frameX="-4" frameY="-21" frameWidth="223" frameHeight="322"/>
+	<SubTexture name="yellow bruh0004" x="2029" y="932" width="223" height="291" frameX="0" frameY="-29" frameWidth="223" frameHeight="322"/>
+	<SubTexture name="yellow hiding knife0000" x="3022" y="557" width="203" height="381" frameX="-74" frameY="0" frameWidth="299" frameHeight="381"/>
+	<SubTexture name="yellow hiding knife0001" x="3402" y="515" width="222" height="370" frameX="-60" frameY="-11" frameWidth="299" frameHeight="381"/>
+	<SubTexture name="yellow hiding knife0002" x="3055" y="100" width="247" height="357" frameX="-41" frameY="-23" frameWidth="299" frameHeight="381"/>
+	<SubTexture name="yellow hiding knife0003" x="2683" y="100" width="272" height="343" frameX="-21" frameY="-37" frameWidth="299" frameHeight="381"/>
+	<SubTexture name="yellow hiding knife0004" x="2284" y="100" width="299" height="328" frameX="0" frameY="-51" frameWidth="299" frameHeight="381"/>
+	<SubTexture name="yellow huh0000" x="2010" y="1323" width="185" height="321" frameX="-21" frameY="0" frameWidth="228" frameHeight="321"/>
+	<SubTexture name="yellow huh0001" x="1414" y="1012" width="197" height="314" frameX="-15" frameY="-7" frameWidth="228" frameHeight="321"/>
+	<SubTexture name="yellow huh0002" x="795" y="955" width="207" height="306" frameX="-10" frameY="-14" frameWidth="228" frameHeight="321"/>
+	<SubTexture name="yellow huh0003" x="3779" y="100" width="217" height="299" frameX="-5" frameY="-21" frameWidth="228" frameHeight="321"/>
+	<SubTexture name="yellow huh0004" x="467" y="921" width="228" height="291" frameX="0" frameY="-28" frameWidth="228" frameHeight="321"/>
+	<SubTexture name="yellow knife0000" x="1902" y="100" width="282" height="417" frameX="-19" frameY="0" frameWidth="398" frameHeight="417"/>
+	<SubTexture name="yellow knife0001" x="1498" y="100" width="304" height="393" frameX="-14" frameY="-23" frameWidth="398" frameHeight="417"/>
+	<SubTexture name="yellow knife0002" x="1064" y="100" width="334" height="367" frameX="-9" frameY="-48" frameWidth="398" frameHeight="417"/>
+	<SubTexture name="yellow knife0003" x="100" y="100" width="366" height="340" frameX="-5" frameY="-73" frameWidth="398" frameHeight="417"/>
+	<SubTexture name="yellow knife0004" x="566" y="100" width="398" height="311" frameX="0" frameY="-101" frameWidth="398" frameHeight="417"/>
+	<SubTexture name="yellow regular0000" x="418" y="1312" width="192" height="315" frameX="-13" frameY="0" frameWidth="218" frameHeight="315"/>
+	<SubTexture name="yellow regular0001" x="1711" y="1012" width="199" height="309" frameX="-9" frameY="-5" frameWidth="218" frameHeight="315"/>
+	<SubTexture name="yellow regular0002" x="3624" y="985" width="205" height="303" frameX="-6" frameY="-11" frameWidth="218" frameHeight="315"/>
+	<SubTexture name="yellow regular0003" x="1102" y="984" width="212" height="298" frameX="-3" frameY="-16" frameWidth="218" frameHeight="315"/>
+	<SubTexture name="yellow regular0004" x="100" y="938" width="218" height="291" frameX="0" frameY="-22" frameWidth="218" frameHeight="315"/>
+</TextureAtlas>

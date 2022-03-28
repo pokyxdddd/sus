@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		160
+	],
+	"scale": 1.7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "red regular",
+			"idle_name": "red regular0005"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-1
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "red huh0004",
+			"loop_name": "red huh"
+		},
+		{
+			"loop_name": "red bruh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "red bruh0004",
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "red accuse",
+			"idle_offsets": [
+				0,
+				-30
+			],
+			"idle_name": "red accuse loop",
+			"anim": "accuse",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "reddialogue"
+}

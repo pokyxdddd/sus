@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		180,
+		160
+	],
+	"scale": 1.7,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "crew regular",
+			"idle_name": "crew regular0005"
+		},
+		{
+			"idle_offsets": [
+				-6,
+				-1
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "crew huh0004",
+			"loop_name": "crew huh"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "bruh",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "crew bruh0004",
+			"loop_name": "crew bruh"
+		},
+		{
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"anim": "accuse",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "crew accuse loop",
+			"loop_name": "crew accuse"
+		},
+		{
+			"loop_name": "crew what",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "crew what0004",
+			"anim": "what",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "greendialogue"
+}
