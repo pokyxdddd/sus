@@ -1,0 +1,52 @@
+{
+	"storyName": "sussy impostor",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"songs": [
+		[
+			"tasks",
+			"red",
+			[
+				255,
+				20,
+				40
+			]
+		],
+		[
+			"skeptical-behaviour",
+			"yellow",
+			[
+				255,
+				255,
+				60
+			]
+		],
+		[
+			"discussion",
+			"orange",
+			[
+				255,
+				100,
+				20
+			]
+		],
+		[
+			"voted",
+			"orange",
+			[
+				255,
+				100,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week1"
+}
