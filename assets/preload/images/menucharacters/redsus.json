@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "Left",
+	"idle_anim": "Idle",
+	"position": [
+		95,
+		-50
+	],
+	"scale": 1,
+	"image": "redsus"
+}

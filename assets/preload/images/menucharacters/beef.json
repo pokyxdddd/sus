@@ -1,0 +1,10 @@
+{
+	"idle_anim": "BF idle dance",
+	"confirm_anim": "BF HEY!!",
+	"position": [
+		95,
+		10
+	],
+	"scale": 0.75,
+	"image": "beef"
+}
